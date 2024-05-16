@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    background-color: black;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    text-align: center;
+}
+
+.cosas{
+    color: yellowgreen;
+    background-color: black;
+    width: 20px;
+    font-size: 25px;
+}
+
+#regla{
+    color: blue;
+    size: 20px;
+    background-color: aqua;
+
+    font-size: 25px;
+}

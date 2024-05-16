@@ -10,6 +10,14 @@
 	position:relative;
 	top: 50px;
 	left: 50px;
+	/*
+	left
+	bottom
+	puedo elegir una sola o dos pero no poner arriba y abajo, o izquierda y derecha
+	*/
+
+
+
 	margin:0 auto;
 	height:20%;
 	width:94%;
